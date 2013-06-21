@@ -1,0 +1,6 @@
+; Declares the module parameters for the DLL.
+
+LIBRARY      "nv_SvcSpaceMouse"
+
+EXPORTS
+    GetRTFactory
